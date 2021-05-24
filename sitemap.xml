@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://zentropy.live/</loc>
+    </url>
+    <url>
+        <loc>https://zentropy.live/about/</loc>
+    </url>
+    <url>
+        <loc>https://zentropy.live/odbc-rs-multithreaded-async/</loc>
+        <lastmod>2020-05-07</lastmod>
+    </url>
+    <url>
+        <loc>https://zentropy.live/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://zentropy.live/tags/</loc>
+    </url>
+    <url>
+        <loc>https://zentropy.live/tags/rust/</loc>
+    </url>
+</urlset>

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zentropy.live/sitemap.xml
